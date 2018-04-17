@@ -8,6 +8,5 @@
       <h1 class="w3-text-teal">Kommer senere</h1>
     <div class="w3-third w3-container">
 
-<!-- END MAIN -->
 </div>
 </body>

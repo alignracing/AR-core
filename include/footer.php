@@ -4,3 +4,4 @@
         <h4>Align Racing  <?php echo date("Y"); ?> UiA </h4>
     </div>
 </footer>
+

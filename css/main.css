@@ -1,0 +1,21 @@
+
+@import "w3.css";
+@import url("https://www.w3schools.com/lib/w3-theme-black.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.w3-sidebar {
+    z-index: 3;
+    width: 250px;
+    top: 43px;
+    bottom: 0;
+    height: inherit;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

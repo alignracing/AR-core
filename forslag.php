@@ -4,7 +4,6 @@
 <?php include('include/footer.php'); ?>
 
 <body>
-
 <br>
 <form action="/action_page.php" class="w3-container w3-card-4 w3-light-grey w3-text-blue w3-margin">
     <h2 class="w3-center">Forslag til IT verktøy</h2>

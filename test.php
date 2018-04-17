@@ -11,7 +11,6 @@
     <p>Red often indicates a dangerous or negative situation.</p>
 </div>
 
-
 <div class="w3-panel w3-yellow w3-display-container">
   <span onclick="this.parentElement.style.display='none'"
         class="w3-button w3-yellow w3-large w3-display-topright">&times;</span>
